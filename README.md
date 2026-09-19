@@ -1,36 +1,28 @@
 # Cybersecurity Labs
 
-> **Marcus Paula** | IT Engineer — TikTok EMEA | Dublin, Ireland
-> HackTheBox: MaikPro | Zero Days CTF — 4th Place (Solo)
+> **Marcus Paula** | Security and infrastructure study notes
 
-Hands-on security research through CTF competitions and HackTheBox machines.
-Offensive techniques applied directly to strengthen defensive operations,
-reduce risk exposure and improve incident detection across enterprise environments.
+Study write-ups of HackTheBox exercises and offensive techniques, with mappings to defensive controls. These notes do not establish enterprise deployment, measured risk reduction or a competition ranking.
 
 ---
 
 ## Operational Relevance
 
 Understanding attacker techniques informs better defensive decisions.
-Each lab maps to real-world controls and IT Operations outcomes:
+Each lab connects techniques to potential defensive applications:
 
-| KPI | Application |
+| Area | Potential application |
 |-----|-------------|
 | **Risk Exposure Index** | Identifying misconfiguration patterns (SUDO, NFS, wildcard injection) before attackers do |
 | **Security Incident Rate** | Recognising lateral movement TTPs used in real incidents (MITRE ATT&CK) |
 | **Change Success Rate** | Exploit path awareness drives safer change management and hardening procedures |
-| **Automation Rate** | Detection scripts derived from lab techniques applied in production monitoring |
+| **Automation Rate** | Candidate detection ideas to validate in an isolated lab |
 
 ---
 
-## CTF Performance
+## Learning Scope
 
-| Event | Result |
-|-------|--------|
-| **Zero Days CTF** | **4th Place — Solo competitor** |
-| HackTheBox | Active — [MaikPro](https://app.hackthebox.com/profile/MaikPro) |
-| TryHackMe | Active — forensics and incident response labs |
-| AttackIQ | MITRE ATT&CK practitioner |
+The write-ups below cover Linux exploitation paths and defensive lessons. Competition results and professional certifications are omitted until their supporting records are verified.
 
 ---
 
@@ -59,16 +51,14 @@ Each lab maps to real-world controls and IT Operations outcomes:
 
 ---
 
-## Certifications
+## Related Study Topics
 
-- Foundations of Operationalizing MITRE ATT&CK (AttackIQ)
-- Computer Forensic — First Learning Activity (TryHackMe)
-- Certified Network Security Specialist (DefensityOne)
+MITRE ATT&CK mapping, forensic methodology and network security. These topics are learning areas, not claims of a completed professional award.
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus_Paula-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/marcuspaula)
-[![GitHub](https://img.shields.io/badge/GitHub-Maikmax-181717?style=flat-square&logo=github)](https://github.com/Maikmax)
+[![GitHub](https://img.shields.io/badge/GitHub-marcuspaula--seceng-181717?style=flat-square&logo=github)](https://github.com/marcuspaula-seceng)
 
 
 ---
@@ -77,4 +67,4 @@ Each lab maps to real-world controls and IT Operations outcomes:
 
 **Study Notes** — part of the [`marcuspaula-security-portfolio`](https://github.com/marcuspaula-seceng/marcuspaula-security-portfolio) hub.
 
-**This repository contains study notes, not an engineering project.** There is no code in it. It is kept as evidence of what was studied and when, and is deliberately not presented as a built project.
+This repository contains study write-ups with embedded command and code examples. It is not a packaged or validated engineering project, and does not establish production execution.

@@ -69,3 +69,12 @@ Each lab maps to real-world controls and IT Operations outcomes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus_Paula-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/marcuspaula)
 [![GitHub](https://img.shields.io/badge/GitHub-Maikmax-181717?style=flat-square&logo=github)](https://github.com/Maikmax)
+
+
+---
+
+## Classification
+
+**Study Notes** — part of the [`marcuspaula-security-portfolio`](https://github.com/marcuspaula-seceng/marcuspaula-security-portfolio) hub.
+
+**This repository contains study notes, not an engineering project.** There is no code in it. It is kept as evidence of what was studied and when, and is deliberately not presented as a built project.

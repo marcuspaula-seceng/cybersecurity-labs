@@ -21,6 +21,8 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Intro to Malware Analysis](./intro-to-malware-analysis/) | Malware analysis | Easy | REMnux, hashes, PE sections/entropy/imports, Hybrid Analysis, anti-analysis |
 | [Living Off the Land Attacks](./living-off-the-land-attacks/) | Detection / LOLBins | Easy | PowerShell IEX, certutil, mshta, rundll32, WMIC, PsExec; malicious vs benign triage |
 | [Shadow Trace](./shadow-trace/) | Malware triage (challenge) | Easy | sigcheck/strings IOC extraction, Base64 & char-code decoding, alert correlation |
+| [Pyramid of Pain](./pyramid-of-pain/) | Threat intel framework | Easy | Hash→IP→Domain→Artifacts→Tools→TTPs, Any.run/VT reports, fuzzy hashing |
+| [Cyber Kill Chain](./cyber-kill-chain/) | Threat modelling | Easy | 7 phases, macros, watering hole, DNS tunneling; Target 2013 breach mapped |
 
 ## Events / CTF
 

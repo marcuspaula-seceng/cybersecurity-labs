@@ -9,6 +9,10 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [SOC Role in Blue Team](./soc-role-in-blue-team/) | Blue Team / SOC | Easy | Security hierarchy, CISO/Red/GRC/Blue teams, SOC L1/L2, CIRT, MSSP, incident routing |
 | [Humans as Attack Vectors](./humans-as-attack-vectors/) | Social engineering | Easy | Phishing, impersonation/deepfake, fake installers, look-alike domains, security policy design |
 | [Systems as Attack Vectors](./systems-as-attack-vectors/) | Vulnerability management | Easy | CVEs & patching, misconfigurations, supply chain, root-cause remediation, hardening plan |
+| [SOC L1 Alert Triage](./soc-l1-alert-triage/) | Blue Team / SOC | Easy | Alert properties, SIEM queue prioritisation, ownership, TP/FP verdicts |
+| [SOC L1 Alert Reporting](./soc-l1-alert-reporting/) | Blue Team / SOC | Easy | Five Ws reports, escalation to L2, communication |
+| [SOC Workbooks and Lookups](./soc-workbooks-and-lookups/) | Blue Team / SOC | Easy | Identity & asset inventory, network diagrams, enrichment, workbook design |
+| [SOC Metrics and Objectives](./soc-metrics-and-objectives/) | Blue Team / SOC | Easy | FPR, AER, TDR, MTTD/MTTA/MTTR, SLAs, false-positive remediation |
 
 ## Events / CTF
 

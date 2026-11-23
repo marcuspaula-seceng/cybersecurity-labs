@@ -47,6 +47,10 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 | [SOC Role in Blue Team](./tryhackme/soc-role-in-blue-team/) | Blue Team / SOC | Easy | Security hierarchy, SOC L1/L2, CIRT, GRC, MSSP, incident routing |
 | [Humans as Attack Vectors](./tryhackme/humans-as-attack-vectors/) | Social Engineering | Easy | Phishing, impersonation/deepfake, look-alike domains, security policy |
 | [Systems as Attack Vectors](./tryhackme/systems-as-attack-vectors/) | Vulnerability Mgmt | Easy | CVE patching, misconfigurations, supply chain, remediation plan |
+| [SOC L1 Alert Triage](./tryhackme/soc-l1-alert-triage/) | Vulnerability Mgmt | Easy | Alert triage, SIEM queue, TP/FP verdicts |
+| [SOC L1 Alert Reporting](./tryhackme/soc-l1-alert-reporting/) | Vulnerability Mgmt | Easy | Five Ws reports, L2 escalation |
+| [SOC Workbooks and Lookups](./tryhackme/soc-workbooks-and-lookups/) | Vulnerability Mgmt | Easy | Enrichment, identity/asset inventory, workbooks |
+| [SOC Metrics and Objectives](./tryhackme/soc-metrics-and-objectives/) | Vulnerability Mgmt | Easy | MTTD/MTTA/MTTR, FPR, SLAs |
 
 ---
 

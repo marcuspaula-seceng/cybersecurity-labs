@@ -43,14 +43,16 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 
 | Room | Category | Difficulty | Key Techniques |
 |------|----------|-----------|----------------|
-| [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Gravatar email-hash pivoting (SHA-256), Base64 decoding |
-| [SOC Role in Blue Team](./tryhackme/soc-role-in-blue-team/) | Blue Team / SOC | Easy | Security hierarchy, SOC L1/L2, CIRT, GRC, MSSP, incident routing |
-| [Humans as Attack Vectors](./tryhackme/humans-as-attack-vectors/) | Social Engineering | Easy | Phishing, impersonation/deepfake, look-alike domains, security policy |
-| [Systems as Attack Vectors](./tryhackme/systems-as-attack-vectors/) | Vulnerability Mgmt | Easy | CVE patching, misconfigurations, supply chain, remediation plan |
-| [SOC L1 Alert Triage](./tryhackme/soc-l1-alert-triage/) | Blue Team / SOC | Easy | Alert triage, SIEM queue, TP/FP verdicts |
-| [SOC L1 Alert Reporting](./tryhackme/soc-l1-alert-reporting/) | Blue Team / SOC | Easy | Five Ws reports, L2 escalation |
-| [SOC Workbooks and Lookups](./tryhackme/soc-workbooks-and-lookups/) | Blue Team / SOC | Easy | Enrichment, identity/asset inventory, workbooks |
-| [SOC Metrics and Objectives](./tryhackme/soc-metrics-and-objectives/) | Blue Team / SOC | Easy | MTTD/MTTA/MTTR, FPR, SLAs |
+| [SOC Role in Blue Team](./tryhackme/soc-role-in-blue-team/) | Blue Team / SOC | Easy | Security hierarchy, CISO/Red/GRC/Blue teams, SOC L1/L2, CIRT, MSSP, incident routing |
+| [Humans as Attack Vectors](./tryhackme/humans-as-attack-vectors/) | Social engineering | Easy | Phishing, impersonation/deepfake, fake installers, look-alike domains, security policy design |
+| [Systems as Attack Vectors](./tryhackme/systems-as-attack-vectors/) | Vulnerability management | Easy | CVEs & patching, misconfigurations, supply chain, root-cause remediation, hardening plan |
+| [SOC L1 Alert Triage](./tryhackme/soc-l1-alert-triage/) | Blue Team / SOC | Easy | Alert properties, SIEM queue prioritisation, ownership, TP/FP verdicts |
+| [SOC L1 Alert Reporting](./tryhackme/soc-l1-alert-reporting/) | Blue Team / SOC | Easy | Five Ws reports, escalation to L2, communication |
+| [SOC Workbooks and Lookups](./tryhackme/soc-workbooks-and-lookups/) | Blue Team / SOC | Easy | Identity & asset inventory, network diagrams, enrichment, workbook design |
+| [SOC Metrics and Objectives](./tryhackme/soc-metrics-and-objectives/) | Blue Team / SOC | Easy | FPR, AER, TDR, MTTD/MTTA/MTTR, SLAs, false-positive remediation |
+| [Introduction to EDR](./tryhackme/introduction-to-edr/) | Endpoint security | Easy | EDR vs AV, telemetry, process chains, LSASS dumping, IOC triage |
+| [Introduction to SIEM](./tryhackme/introduction-to-siem/) | SIEM | Easy | Log sources, ingestion, correlation rules, event 4688 triage, TP verdict |
+| [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 
 ---
 

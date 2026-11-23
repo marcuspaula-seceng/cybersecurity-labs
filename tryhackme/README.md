@@ -13,6 +13,8 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [SOC L1 Alert Reporting](./soc-l1-alert-reporting/) | Blue Team / SOC | Easy | Five Ws reports, escalation to L2, communication |
 | [SOC Workbooks and Lookups](./soc-workbooks-and-lookups/) | Blue Team / SOC | Easy | Identity & asset inventory, network diagrams, enrichment, workbook design |
 | [SOC Metrics and Objectives](./soc-metrics-and-objectives/) | Blue Team / SOC | Easy | FPR, AER, TDR, MTTD/MTTA/MTTR, SLAs, false-positive remediation |
+| [Introduction to EDR](./introduction-to-edr/) | Endpoint security | Easy | EDR vs AV, telemetry, process chains, LSASS dumping, IOC triage |
+| [Introduction to SIEM](./introduction-to-siem/) | SIEM | Easy | Log sources, ingestion, correlation rules, event 4688 triage, TP verdict |
 
 ## Events / CTF
 

@@ -37,6 +37,17 @@ The write-ups below cover Linux exploitation paths and defensive lessons. Compet
 
 ---
 
+## TryHackMe Labs
+
+Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redacted.
+
+| Room | Category | Difficulty | Key Techniques |
+|------|----------|-----------|----------------|
+| [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Gravatar email-hash pivoting (SHA-256), Base64 decoding |
+| [SOC Role in Blue Team](./tryhackme/soc-role-in-blue-team/) | Blue Team / SOC | Easy | Security hierarchy, SOC L1/L2, CIRT, GRC, MSSP, incident routing |
+
+---
+
 ## Techniques Mapped to MITRE ATT&CK
 
 | Technique | ATT&CK ID | Seen In |

@@ -56,6 +56,7 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 | [Introduction to SOAR](./tryhackme/introduction-to-soar/) | SOAR / Automation | Easy | Alert fatigue, orchestration, playbooks, manual vs automated TI workflow |
 | [Malware Classification](./tryhackme/malware-classification/) | Malware | Easy | Malware families by behaviour, real cases (Pegasus, Akira, Shamoon), binary vs script |
 | [Intro to Malware Analysis](./tryhackme/intro-to-malware-analysis/) | Malware analysis | Easy | REMnux, hashes, PE sections/entropy/imports, Hybrid Analysis, anti-analysis |
+| [Living Off the Land Attacks](./tryhackme/living-off-the-land-attacks/) | Detection / LOLBins | Easy | PowerShell IEX, certutil, mshta, rundll32, WMIC, PsExec; malicious vs benign triage |
 | [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 
 ---

@@ -20,6 +20,7 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Malware Classification](./malware-classification/) | Malware | Easy | Malware families by behaviour, real cases (Pegasus, Akira, Shamoon), binary vs script |
 | [Intro to Malware Analysis](./intro-to-malware-analysis/) | Malware analysis | Easy | REMnux, hashes, PE sections/entropy/imports, Hybrid Analysis, anti-analysis |
 | [Living Off the Land Attacks](./living-off-the-land-attacks/) | Detection / LOLBins | Easy | PowerShell IEX, certutil, mshta, rundll32, WMIC, PsExec; malicious vs benign triage |
+| [Shadow Trace](./shadow-trace/) | Malware triage (challenge) | Easy | sigcheck/strings IOC extraction, Base64 & char-code decoding, alert correlation |
 
 ## Events / CTF
 

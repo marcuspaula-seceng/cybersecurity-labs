@@ -52,6 +52,7 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 | [SOC Metrics and Objectives](./tryhackme/soc-metrics-and-objectives/) | Blue Team / SOC | Easy | FPR, AER, TDR, MTTD/MTTA/MTTR, SLAs, false-positive remediation |
 | [Introduction to EDR](./tryhackme/introduction-to-edr/) | Endpoint security | Easy | EDR vs AV, telemetry, process chains, LSASS dumping, IOC triage |
 | [Introduction to SIEM](./tryhackme/introduction-to-siem/) | SIEM | Easy | Log sources, ingestion, correlation rules, event 4688 triage, TP verdict |
+| [Splunk: The Basics](./tryhackme/splunk-the-basics/) | SIEM / Splunk | Easy | Forwarder/Indexer/Search Head, JSON ingestion, custom index, SPL stats |
 | [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 
 ---

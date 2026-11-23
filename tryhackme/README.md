@@ -15,6 +15,7 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [SOC Metrics and Objectives](./soc-metrics-and-objectives/) | Blue Team / SOC | Easy | FPR, AER, TDR, MTTD/MTTA/MTTR, SLAs, false-positive remediation |
 | [Introduction to EDR](./introduction-to-edr/) | Endpoint security | Easy | EDR vs AV, telemetry, process chains, LSASS dumping, IOC triage |
 | [Introduction to SIEM](./introduction-to-siem/) | SIEM | Easy | Log sources, ingestion, correlation rules, event 4688 triage, TP verdict |
+| [Splunk: The Basics](./splunk-the-basics/) | SIEM / Splunk | Easy | Forwarder/Indexer/Search Head, JSON ingestion, custom index, SPL stats |
 
 ## Events / CTF
 

@@ -45,6 +45,8 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 |------|----------|-----------|----------------|
 | [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 | [SOC Role in Blue Team](./tryhackme/soc-role-in-blue-team/) | Blue Team / SOC | Easy | Security hierarchy, SOC L1/L2, CIRT, GRC, MSSP, incident routing |
+| [Humans as Attack Vectors](./tryhackme/humans-as-attack-vectors/) | Social Engineering | Easy | Phishing, impersonation/deepfake, look-alike domains, security policy |
+| [Systems as Attack Vectors](./tryhackme/systems-as-attack-vectors/) | Vulnerability Mgmt | Easy | CVE patching, misconfigurations, supply chain, remediation plan |
 
 ---
 

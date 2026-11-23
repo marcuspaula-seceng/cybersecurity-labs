@@ -17,6 +17,7 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Introduction to SIEM](./introduction-to-siem/) | SIEM | Easy | Log sources, ingestion, correlation rules, event 4688 triage, TP verdict |
 | [Splunk: The Basics](./splunk-the-basics/) | SIEM / Splunk | Easy | Forwarder/Indexer/Search Head, JSON ingestion, custom index, SPL stats |
 | [Introduction to SOAR](./introduction-to-soar/) | SOAR / Automation | Easy | Alert fatigue, orchestration, playbooks, manual vs automated TI workflow |
+| [Malware Classification](./malware-classification/) | Malware | Easy | Malware families by behaviour, real cases (Pegasus, Akira, Shamoon), binary vs script |
 
 ## Events / CTF
 

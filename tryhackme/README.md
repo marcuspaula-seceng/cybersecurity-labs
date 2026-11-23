@@ -23,6 +23,7 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Shadow Trace](./shadow-trace/) | Malware triage (challenge) | Easy | sigcheck/strings IOC extraction, Base64 & char-code decoding, alert correlation |
 | [Pyramid of Pain](./pyramid-of-pain/) | Threat intel framework | Easy | Hash→IP→Domain→Artifacts→Tools→TTPs, Any.run/VT reports, fuzzy hashing |
 | [Cyber Kill Chain](./cyber-kill-chain/) | Threat modelling | Easy | 7 phases, macros, watering hole, DNS tunneling; Target 2013 breach mapped |
+| [Unified Kill Chain](./unified-kill-chain/) | Threat modelling | Easy | 18 phases In/Through/Out, mapping SOC alerts to phases |
 
 ## Events / CTF
 

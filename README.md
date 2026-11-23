@@ -60,6 +60,7 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 | [Shadow Trace](./tryhackme/shadow-trace/) | Malware triage (challenge) | Easy | sigcheck/strings IOC extraction, Base64 & char-code decoding, alert correlation |
 | [Pyramid of Pain](./tryhackme/pyramid-of-pain/) | Threat intel framework | Easy | Hash→IP→Domain→Artifacts→Tools→TTPs, Any.run/VT reports, fuzzy hashing |
 | [Cyber Kill Chain](./tryhackme/cyber-kill-chain/) | Threat modelling | Easy | 7 phases, macros, watering hole, DNS tunneling; Target 2013 breach mapped |
+| [Unified Kill Chain](./tryhackme/unified-kill-chain/) | Threat modelling | Easy | 18 phases In/Through/Out, mapping SOC alerts to phases |
 | [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 
 ---

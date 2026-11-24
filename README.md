@@ -35,6 +35,10 @@ The write-ups below cover Linux exploitation paths and defensive lessons. Compet
 | [Jail](./hackthebox/jail/) | Insane | Linux | Stack BOF, NFS UID spoofing, rvim escape, RSA Wiener attack |
 | [Calamity](./hackthebox/calamity/) | Hard | Linux | PHP eval RCE, audio steganography, ret2mprotect ROP chain |
 
+## Hack The Box Academy
+
+Step-by-step progress tracker: [hackthebox/academy](./hackthebox/academy/) - *Operating System Fundamentals* path (Linux Fundamentals done, Windows Fundamentals 46.67% in progress, MacOS/Android to do).
+
 ---
 
 ## TryHackMe Labs

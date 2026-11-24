@@ -8,3 +8,7 @@ Machines solved on HackTheBox (profile: [MaikPro](https://app.hackthebox.com/pro
 | [Falafel](./falafel/) | Hard | Linux | Blind SQLi, PHP type juggling, wget truncation, framebuffer, debugfs |
 | [Jail](./jail/) | Insane | Linux | Stack BOF, NFS UID spoofing, rvim escape, RSA Wiener attack |
 | [Calamity](./calamity/) | Hard | Linux | PHP eval RCE, audio steg, ret2mprotect ROP chain, LXD escalation |
+
+## Hack The Box Academy
+
+Learning path progress and next steps: [academy/](./academy/) - *Operating System Fundamentals* skill path (Linux done, Windows in progress, MacOS and Android to do).

@@ -72,6 +72,7 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 | [Snapped Phish-ing Line](./tryhackme/snapped-phishing-line/) | Phishing / threat-actor pivot | Medium | HTML attachment carving, phishing-kit pivot via open directory, credential log, collector email, IR actions |
 | [Network Traffic Basics](./tryhackme/network-traffic-basics/) | Network traffic analysis | Medium | Logs vs PCAP vs flow, DNS tunneling, fragmentation, TCP sequence, tap placement |
 | [Wireshark: The Basics](./tryhackme/wireshark-the-basics/) | Network traffic analysis | Medium | Capture properties, packet dissection, Expert Info, display filters, Follow Stream, Export Objects |
+| [Wireshark: Packet Operations](./tryhackme/wireshark-packet-operations/) | Network traffic analysis | Medium | Conversations/Endpoints/GeoIP, protocol stats, display filters, contains/matches/in, profiles |
 | [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Medium | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 | [Handbook for the Recently Compromised](./tryhackme/handbook-for-the-recently-compromised/) | Windows forensics / EVTX | Medium | Sysmon + PowerShell 4104 timeline, mshta → certutil LOLBin, scheduled-task persistence, Base64 payload |
 

@@ -35,6 +35,7 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Phishing Emails in Action](./phishing-emails-in-action/) | Phishing / email analysis | Medium | Six real samples: spoofing, URL shorteners, tracking pixels, credential harvesting, malicious attachments |
 | [Phishing Analysis Tools](./phishing-analysis-tools/) | Phishing / sandboxing | Medium | Header analysers, reputation tools, PhishTool, ANY.RUN (CVE-2017-11882) |
 | [Phishing Prevention](./phishing-prevention/) | Email security / Wireshark | Medium | SPF/DKIM/DMARC, S/MIME, SMTP response codes, attachment hunting in a pcap |
+| [The Greenholt Phish](./the-greenholt-phish/) | Phishing / email triage | Medium | Reply-To mismatch, SPF/DMARC, WHOIS, attachment carving, magic bytes (RAR as CAB) |
 
 ## Events / CTF
 

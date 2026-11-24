@@ -36,6 +36,7 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Phishing Analysis Tools](./phishing-analysis-tools/) | Phishing / sandboxing | Medium | Header analysers, reputation tools, PhishTool, ANY.RUN (CVE-2017-11882) |
 | [Phishing Prevention](./phishing-prevention/) | Email security / Wireshark | Medium | SPF/DKIM/DMARC, S/MIME, SMTP response codes, attachment hunting in a pcap |
 | [The Greenholt Phish](./the-greenholt-phish/) | Phishing / email triage | Medium | Reply-To mismatch, SPF/DMARC, WHOIS, attachment carving, magic bytes (RAR as CAB) |
+| [Snapped Phish-ing Line](./snapped-phishing-line/) | Phishing / threat-actor pivot | Medium | HTML attachment carving, phishing-kit pivot via open directory, credential log, collector email, IR actions |
 
 ## Events / CTF
 

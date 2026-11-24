@@ -69,6 +69,7 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 | [Phishing Analysis Tools](./tryhackme/phishing-analysis-tools/) | Phishing / sandboxing | Medium | Header analysers, reputation tools, PhishTool, ANY.RUN (CVE-2017-11882) |
 | [Phishing Prevention](./tryhackme/phishing-prevention/) | Email security / Wireshark | Medium | SPF/DKIM/DMARC, S/MIME, SMTP response codes, attachment hunting in a pcap |
 | [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Medium | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
+| [Handbook for the Recently Compromised](./tryhackme/handbook-for-the-recently-compromised/) | Windows forensics / EVTX | Medium | Sysmon + PowerShell 4104 timeline, mshta → certutil LOLBin, scheduled-task persistence, Base64 payload |
 
 ---
 

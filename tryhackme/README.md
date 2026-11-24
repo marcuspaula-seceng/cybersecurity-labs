@@ -41,3 +41,4 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | Room | Category | Difficulty | Key Techniques / Topics |
 |------|----------|-----------|-------------------------|
 | [Overheard at Breakfast](./overheard-at-breakfast/) | OSINT | Medium | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
+| [Handbook for the Recently Compromised](./handbook-for-the-recently-compromised/) | Windows forensics / EVTX | Medium | Sysmon + PowerShell 4104 timeline, mshta → certutil LOLBin, scheduled-task persistence, Base64 payload |

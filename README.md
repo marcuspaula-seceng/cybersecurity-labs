@@ -105,6 +105,8 @@ MITRE ATT&CK mapping, forensic methodology and network security. These topics ar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus_Paula-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/marcuspaula)
 [![GitHub](https://img.shields.io/badge/GitHub-marcuspaula--seceng-181717?style=flat-square&logo=github)](https://github.com/marcuspaula-seceng)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-marcus.gestor-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/marcus.gestor)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-marcusovercome-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c7cf0-24c7-7114-9f19-11db2eb88906)
 
 
 ---

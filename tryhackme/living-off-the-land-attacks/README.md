@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [Living Off the Land Attacks](https://tryhackme.com/room/livingoffthelandattacks) |
 | Category | Blue Team · Detection · LOLBins |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** understand how attackers use legitimate, signed system binaries (LOLBins) to download, execute and move laterally, and decide which command lines are malicious and which are normal admin activity.

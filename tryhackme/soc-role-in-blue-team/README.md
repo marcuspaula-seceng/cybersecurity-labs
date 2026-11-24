@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam) |
 | Category | Blue Team · SOC fundamentals |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** understand where a SOC sits inside a company, which security teams exist around it, and how a SOC L1 analyst can grow from there.

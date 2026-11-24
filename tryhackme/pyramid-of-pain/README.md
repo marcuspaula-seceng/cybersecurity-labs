@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path (Cyber Defence Frameworks) |
 | Room | [Pyramid Of Pain](https://tryhackme.com/room/pyramidofpainax) |
 | Category | Threat intelligence · Detection engineering |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 10/10 tasks |
 
 > **Goal:** understand David Bianco's Pyramid of Pain — the higher the indicator you detect and block, the more it costs the adversary to change it.

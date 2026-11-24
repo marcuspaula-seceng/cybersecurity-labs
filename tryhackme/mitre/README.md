@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path (Cyber Defence Frameworks) |
 | Room | [MITRE](https://tryhackme.com/room/mitre) |
 | Category | Threat intelligence · Frameworks |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 8/8 tasks |
 
 > **Goal:** navigate the MITRE ecosystem as a SOC analyst — use ATT&CK to profile threat groups, CAR for detection analytics, D3FEND for countermeasures, and ATLAS/AADAPT for AI and blockchain threats.

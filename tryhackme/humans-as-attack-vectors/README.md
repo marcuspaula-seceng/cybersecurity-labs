@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [Humans as Attack Vectors](https://tryhackme.com/room/humansattackvectors) |
 | Category | Blue Team · Social engineering · Phishing |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** understand why attackers target people instead of systems, recognise the main social engineering techniques, and practise responding to real-looking employee incidents as a SOC analyst.

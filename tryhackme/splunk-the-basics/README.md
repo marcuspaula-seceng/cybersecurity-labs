@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [Splunk: The Basics](https://tryhackme.com/room/splunk101) |
 | Category | SIEM · Splunk · SPL |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** learn Splunk's components and interface, ingest a raw JSON log file into a new index, and answer investigation questions with SPL.

@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [Introduction to SIEM](https://tryhackme.com/room/introtosiem) |
 | Category | Blue Team · SIEM · Log analysis |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 7/7 tasks |
 
 > **Goal:** understand why a SOC needs a SIEM, where logs come from, how they are ingested and correlated into alerts, and triage a real alert end-to-end (event → rule → verdict → action).

@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [SOC L1 Alert Reporting](https://tryhackme.com/room/socl1alertreporting) |
 | Category | Blue Team · Reporting · Escalation |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** learn to document an alert so that anyone can understand it without re-investigating, decide when to escalate to L2, and communicate correctly during incidents.

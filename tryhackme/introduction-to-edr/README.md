@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs) |
 | Category | Blue Team · Endpoint security |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 8/8 tasks |
 
 > **Goal:** understand what an EDR does beyond antivirus, what telemetry it collects, how it detects and responds, and then investigate four real-looking detections in an EDR console.

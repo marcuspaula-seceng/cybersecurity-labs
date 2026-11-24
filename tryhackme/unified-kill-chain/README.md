@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path (Cyber Defence Frameworks) |
 | Room | [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain) |
 | Category | Threat modelling · Frameworks |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 9/9 tasks |
 
 > **Goal:** understand the Unified Kill Chain (Paul Pols, **2017**), which merges the Lockheed Martin Kill Chain and MITRE ATT&CK into **18 phases** grouped in three goals.

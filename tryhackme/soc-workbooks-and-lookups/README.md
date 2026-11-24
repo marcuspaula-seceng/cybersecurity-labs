@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [SOC Workbooks and Lookups](https://tryhackme.com/room/socworkbookslookups) |
 | Category | Blue Team · Enrichment · Playbooks |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** use corporate context — identity inventory, asset inventory and network diagrams — to triage alerts correctly, and build step-by-step **workbooks** for recurring alert types.

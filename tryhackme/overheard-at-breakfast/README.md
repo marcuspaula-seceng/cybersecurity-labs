@@ -5,8 +5,8 @@
 | Platform | TryHackMe — Hacker Holidays 2026, Day 6 |
 | Room | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) |
 | Category | OSINT · Social Media · Hashing |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Flag recovered |
 
 > **Goal:** from a leaked chat screenshot, locate a social profile that its owner believed was "wiped", and recover the flag hidden in it.

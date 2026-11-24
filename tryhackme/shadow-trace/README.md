@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path (challenge) |
 | Room | [Shadow Trace](https://tryhackme.com/room/shadowtrace) |
 | Category | Malware triage · IOC extraction · Alert analysis |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 3/3 tasks |
 
 > **Scenario:** night shift, only analyst on duty. A suspicious `windows-update.exe` was found on a user's machine and the EDR fired two alerts. Analyse the file, extract IOCs, correlate the alerts.

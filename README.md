@@ -43,27 +43,32 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 
 | Room | Category | Difficulty | Key Techniques |
 |------|----------|-----------|----------------|
-| [SOC Role in Blue Team](./tryhackme/soc-role-in-blue-team/) | Blue Team / SOC | Easy | Security hierarchy, CISO/Red/GRC/Blue teams, SOC L1/L2, CIRT, MSSP, incident routing |
-| [Humans as Attack Vectors](./tryhackme/humans-as-attack-vectors/) | Social engineering | Easy | Phishing, impersonation/deepfake, fake installers, look-alike domains, security policy design |
-| [Systems as Attack Vectors](./tryhackme/systems-as-attack-vectors/) | Vulnerability management | Easy | CVEs & patching, misconfigurations, supply chain, root-cause remediation, hardening plan |
-| [SOC L1 Alert Triage](./tryhackme/soc-l1-alert-triage/) | Blue Team / SOC | Easy | Alert properties, SIEM queue prioritisation, ownership, TP/FP verdicts |
-| [SOC L1 Alert Reporting](./tryhackme/soc-l1-alert-reporting/) | Blue Team / SOC | Easy | Five Ws reports, escalation to L2, communication |
-| [SOC Workbooks and Lookups](./tryhackme/soc-workbooks-and-lookups/) | Blue Team / SOC | Easy | Identity & asset inventory, network diagrams, enrichment, workbook design |
-| [SOC Metrics and Objectives](./tryhackme/soc-metrics-and-objectives/) | Blue Team / SOC | Easy | FPR, AER, TDR, MTTD/MTTA/MTTR, SLAs, false-positive remediation |
-| [Introduction to EDR](./tryhackme/introduction-to-edr/) | Endpoint security | Easy | EDR vs AV, telemetry, process chains, LSASS dumping, IOC triage |
-| [Introduction to SIEM](./tryhackme/introduction-to-siem/) | SIEM | Easy | Log sources, ingestion, correlation rules, event 4688 triage, TP verdict |
-| [Splunk: The Basics](./tryhackme/splunk-the-basics/) | SIEM / Splunk | Easy | Forwarder/Indexer/Search Head, JSON ingestion, custom index, SPL stats |
-| [Introduction to SOAR](./tryhackme/introduction-to-soar/) | SOAR / Automation | Easy | Alert fatigue, orchestration, playbooks, manual vs automated TI workflow |
-| [Malware Classification](./tryhackme/malware-classification/) | Malware | Easy | Malware families by behaviour, real cases (Pegasus, Akira, Shamoon), binary vs script |
-| [Intro to Malware Analysis](./tryhackme/intro-to-malware-analysis/) | Malware analysis | Easy | REMnux, hashes, PE sections/entropy/imports, Hybrid Analysis, anti-analysis |
-| [Living Off the Land Attacks](./tryhackme/living-off-the-land-attacks/) | Detection / LOLBins | Easy | PowerShell IEX, certutil, mshta, rundll32, WMIC, PsExec; malicious vs benign triage |
-| [Shadow Trace](./tryhackme/shadow-trace/) | Malware triage (challenge) | Easy | sigcheck/strings IOC extraction, Base64 & char-code decoding, alert correlation |
-| [Pyramid of Pain](./tryhackme/pyramid-of-pain/) | Threat intel framework | Easy | Hash→IP→Domain→Artifacts→Tools→TTPs, Any.run/VT reports, fuzzy hashing |
-| [Cyber Kill Chain](./tryhackme/cyber-kill-chain/) | Threat modelling | Easy | 7 phases, macros, watering hole, DNS tunneling; Target 2013 breach mapped |
-| [Unified Kill Chain](./tryhackme/unified-kill-chain/) | Threat modelling | Easy | 18 phases In/Through/Out, mapping SOC alerts to phases |
-| [MITRE](./tryhackme/mitre/) | Threat intel framework | Easy | ATT&CK groups (Mustang Panda, APT33), DET IDs, CAR, D3FEND, ATLAS, AADAPT |
-| [Summit](./tryhackme/summit/) | Detection engineering (challenge) | Easy | Hash/IP/DNS blocks, Sigma rules for registry, beaconing and TTPs |
-| [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
+| [SOC Role in Blue Team](./tryhackme/soc-role-in-blue-team/) | Blue Team / SOC | Medium | Security hierarchy, CISO/Red/GRC/Blue teams, SOC L1/L2, CIRT, MSSP, incident routing |
+| [Humans as Attack Vectors](./tryhackme/humans-as-attack-vectors/) | Social engineering | Medium | Phishing, impersonation/deepfake, fake installers, look-alike domains, security policy design |
+| [Systems as Attack Vectors](./tryhackme/systems-as-attack-vectors/) | Vulnerability management | Medium | CVEs & patching, misconfigurations, supply chain, root-cause remediation, hardening plan |
+| [SOC L1 Alert Triage](./tryhackme/soc-l1-alert-triage/) | Blue Team / SOC | Medium | Alert properties, SIEM queue prioritisation, ownership, TP/FP verdicts |
+| [SOC L1 Alert Reporting](./tryhackme/soc-l1-alert-reporting/) | Blue Team / SOC | Medium | Five Ws reports, escalation to L2, communication |
+| [SOC Workbooks and Lookups](./tryhackme/soc-workbooks-and-lookups/) | Blue Team / SOC | Medium | Identity & asset inventory, network diagrams, enrichment, workbook design |
+| [SOC Metrics and Objectives](./tryhackme/soc-metrics-and-objectives/) | Blue Team / SOC | Medium | FPR, AER, TDR, MTTD/MTTA/MTTR, SLAs, false-positive remediation |
+| [Introduction to EDR](./tryhackme/introduction-to-edr/) | Endpoint security | Medium | EDR vs AV, telemetry, process chains, LSASS dumping, IOC triage |
+| [Introduction to SIEM](./tryhackme/introduction-to-siem/) | SIEM | Medium | Log sources, ingestion, correlation rules, event 4688 triage, TP verdict |
+| [Splunk: The Basics](./tryhackme/splunk-the-basics/) | SIEM / Splunk | Medium | Forwarder/Indexer/Search Head, JSON ingestion, custom index, SPL stats |
+| [Introduction to SOAR](./tryhackme/introduction-to-soar/) | SOAR / Automation | Medium | Alert fatigue, orchestration, playbooks, manual vs automated TI workflow |
+| [Malware Classification](./tryhackme/malware-classification/) | Malware | Medium | Malware families by behaviour, real cases (Pegasus, Akira, Shamoon), binary vs script |
+| [Intro to Malware Analysis](./tryhackme/intro-to-malware-analysis/) | Malware analysis | Medium | REMnux, hashes, PE sections/entropy/imports, Hybrid Analysis, anti-analysis |
+| [Living Off the Land Attacks](./tryhackme/living-off-the-land-attacks/) | Detection / LOLBins | Medium | PowerShell IEX, certutil, mshta, rundll32, WMIC, PsExec; malicious vs benign triage |
+| [Shadow Trace](./tryhackme/shadow-trace/) | Malware triage (challenge) | Medium | sigcheck/strings IOC extraction, Base64 & char-code decoding, alert correlation |
+| [Pyramid of Pain](./tryhackme/pyramid-of-pain/) | Threat intel framework | Medium | Hash→IP→Domain→Artifacts→Tools→TTPs, Any.run/VT reports, fuzzy hashing |
+| [Cyber Kill Chain](./tryhackme/cyber-kill-chain/) | Threat modelling | Medium | 7 phases, macros, watering hole, DNS tunneling; Target 2013 breach mapped |
+| [Unified Kill Chain](./tryhackme/unified-kill-chain/) | Threat modelling | Medium | 18 phases In/Through/Out, mapping SOC alerts to phases |
+| [MITRE](./tryhackme/mitre/) | Threat intel framework | Medium | ATT&CK groups (Mustang Panda, APT33), DET IDs, CAR, D3FEND, ATLAS, AADAPT |
+| [Summit](./tryhackme/summit/) | Detection engineering (challenge) | Medium | Hash/IP/DNS blocks, Sigma rules for registry, beaconing and TTPs |
+| [Eviction](./tryhackme/eviction/) | Threat intelligence / ATT&CK Navigator | Medium | Mapping APT28 TTPs to hunting hypotheses across the kill chain |
+| [Phishing Analysis Fundamentals](./tryhackme/phishing-analysis-fundamentals/) | Phishing / email analysis | Medium | Header triage with grep, Base64 attachment decoding, brand-spoofing IOCs |
+| [Phishing Emails in Action](./tryhackme/phishing-emails-in-action/) | Phishing / email analysis | Medium | Six real samples: spoofing, URL shorteners, tracking pixels, credential harvesting, malicious attachments |
+| [Phishing Analysis Tools](./tryhackme/phishing-analysis-tools/) | Phishing / sandboxing | Medium | Header analysers, reputation tools, PhishTool, ANY.RUN (CVE-2017-11882) |
+| [Phishing Prevention](./tryhackme/phishing-prevention/) | Email security / Wireshark | Medium | SPF/DKIM/DMARC, S/MIME, SMTP response codes, attachment hunting in a pcap |
+| [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Medium | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 
 ---
 

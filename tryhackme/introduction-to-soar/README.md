@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [Introduction to SOAR](https://tryhackme.com/room/soar) |
 | Category | Blue Team · SOAR · Automation |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** understand the problems of a traditional SOC, how SOAR (Security Orchestration, Automation and Response) solves them with playbooks, and build a Threat Intel workflow deciding which steps are automated and which stay manual.

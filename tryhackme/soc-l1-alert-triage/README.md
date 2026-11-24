@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage) |
 | Category | Blue Team · Alert triage · SIEM |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** understand the alert lifecycle (event → log → SIEM/EDR rule → alert → triage → verdict) and practise triaging real alerts in a simulated SIEM queue.

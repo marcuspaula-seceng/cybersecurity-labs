@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path (Cyber Defence Frameworks challenge) |
 | Room | [Summit](https://tryhackme.com/room/summit) |
 | Category | Detection engineering · Purple team · Sigma |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 flags |
 
 > **Scenario:** a pentester ("Sphinx") runs malware samples on a PicoSecure workstation. After each sample I must use PicoSecure's tools (sandbox, hash blocklist, firewall, DNS filter, Sigma rule builder) to detect/prevent it. Each round forces me one level **higher** on the Pyramid of Pain.

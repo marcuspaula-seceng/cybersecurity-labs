@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path (Cyber Defence Frameworks) |
 | Room | [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt) |
 | Category | Threat modelling · Frameworks |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 10/10 tasks |
 
 > **Goal:** learn Lockheed Martin's 7-phase Cyber Kill Chain and apply it to a real breach. Defenders win by breaking **any** link in the chain.

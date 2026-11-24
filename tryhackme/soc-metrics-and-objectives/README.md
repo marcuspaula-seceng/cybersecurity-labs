@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [SOC Metrics and Objectives](https://tryhackme.com/room/socmetricsobjectives) |
 | Category | Blue Team · SOC Management · SLAs |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 6/6 tasks |
 
 > **Goal:** understand the metrics used to judge a SOC (alert count, FPR, escalation rate, MTTD/MTTA/MTTR), spot which one is broken in a real complaint, and assign the right improvement to the right role.

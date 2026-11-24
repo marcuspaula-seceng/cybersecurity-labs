@@ -5,8 +5,8 @@
 | Platform | TryHackMe — SOC Level 1 path |
 | Room | [Systems as Attack Vectors](https://tryhackme.com/room/systemsattackvectors) |
 | Category | Blue Team · Vulnerability management · Hardening |
-| Difficulty | Easy |
-| Date | 23 Nov 2026 |
+| Difficulty | Medium |
+| Year | 2026 |
 | Status | ✅ Completed — 7/7 tasks |
 
 > **Goal:** understand how attackers exploit vulnerable or misconfigured systems (often with no victim interaction), and decide the right remediation for each case.

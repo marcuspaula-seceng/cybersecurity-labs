@@ -61,6 +61,8 @@ Step-by-step write-ups with screenshots ([index](./tryhackme/)). Flags are redac
 | [Pyramid of Pain](./tryhackme/pyramid-of-pain/) | Threat intel framework | Easy | Hash→IP→Domain→Artifacts→Tools→TTPs, Any.run/VT reports, fuzzy hashing |
 | [Cyber Kill Chain](./tryhackme/cyber-kill-chain/) | Threat modelling | Easy | 7 phases, macros, watering hole, DNS tunneling; Target 2013 breach mapped |
 | [Unified Kill Chain](./tryhackme/unified-kill-chain/) | Threat modelling | Easy | 18 phases In/Through/Out, mapping SOC alerts to phases |
+| [MITRE](./tryhackme/mitre/) | Threat intel framework | Easy | ATT&CK groups (Mustang Panda, APT33), DET IDs, CAR, D3FEND, ATLAS, AADAPT |
+| [Summit](./tryhackme/summit/) | Detection engineering (challenge) | Easy | Hash/IP/DNS blocks, Sigma rules for registry, beaconing and TTPs |
 | [Overheard at Breakfast](./tryhackme/overheard-at-breakfast/) | OSINT | Easy | Clue extraction, Gravatar email-hash pivoting (SHA-256), Base64 decoding |
 
 ---

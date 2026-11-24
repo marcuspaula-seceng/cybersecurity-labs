@@ -24,6 +24,8 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Pyramid of Pain](./pyramid-of-pain/) | Threat intel framework | Easy | Hash→IP→Domain→Artifacts→Tools→TTPs, Any.run/VT reports, fuzzy hashing |
 | [Cyber Kill Chain](./cyber-kill-chain/) | Threat modelling | Easy | 7 phases, macros, watering hole, DNS tunneling; Target 2013 breach mapped |
 | [Unified Kill Chain](./unified-kill-chain/) | Threat modelling | Easy | 18 phases In/Through/Out, mapping SOC alerts to phases |
+| [MITRE](./mitre/) | Threat intel framework | Easy | ATT&CK groups (Mustang Panda, APT33), DET IDs, CAR, D3FEND, ATLAS, AADAPT |
+| [Summit](./summit/) | Detection engineering (challenge) | Easy | Hash/IP/DNS blocks, Sigma rules for registry, beaconing and TTPs |
 
 ## Events / CTF
 

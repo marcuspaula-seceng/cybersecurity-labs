@@ -40,6 +40,7 @@ Rooms completed on TryHackMe, documented step by step with screenshots, reasonin
 | [Network Traffic Basics](./network-traffic-basics/) | Network traffic analysis | Medium | Logs vs PCAP vs flow, DNS tunneling, fragmentation, TCP sequence, tap placement |
 | [Wireshark: The Basics](./wireshark-the-basics/) | Network traffic analysis | Medium | Capture properties, packet dissection, Expert Info, display filters, Follow Stream, Export Objects |
 | [Wireshark: Packet Operations](./wireshark-packet-operations/) | Network traffic analysis | Medium | Conversations/Endpoints/GeoIP, protocol stats, display filters, contains/matches/in, profiles |
+| [Wireshark: Traffic Analysis](./wireshark-traffic-analysis/) | Network traffic analysis | Medium | Nmap/ARP-MITM detection, DHCP/NetBIOS/Kerberos, ICMP/DNS tunnelling, FTP, Log4j, TLS decryption, firewall rules |
 
 ## Events / CTF
 
